@@ -1,4 +1,4 @@
-qrcode
+qr
 code93
 code39
 datamatrix
