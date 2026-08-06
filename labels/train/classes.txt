@@ -1,0 +1,4 @@
+qrcode
+code93
+code39
+datamatrix
