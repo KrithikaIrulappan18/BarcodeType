@@ -2,3 +2,13 @@ qr
 code93
 code39
 datamatrix
+ean8
+ean13
+pdf417
+aztec
+maxicode
+upc
+itf
+codebar
+rss
+code128
